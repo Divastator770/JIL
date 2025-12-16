@@ -2,23 +2,23 @@ import { useEffect, useMemo, useRef, useCallback } from 'react';
 import { useGesture } from '@use-gesture/react';
 
 // Import all images
-import img1 from '@/img/1.JPG';
-import img2 from '@/img/2.JPG';
-import img3 from '@/img/3.JPG';
-import img4 from '@/img/4.JPG';
-import img5 from '@/img/5.JPG';
-import img6 from '@/img/6.JPG';
-import img7 from '@/img/7.JPG';
-import img8 from '@/img/8.JPG';
-import img9 from '@/img/9.JPG';
-import img10 from '@/img/10.JPG';
-import img11 from '@/img/11.JPG';
-import img12 from '@/img/12.JPG';
-import img13 from '@/img/13.JPG';
-import img14 from '@/img/14.JPG';
-import img15 from '@/img/15.JPG';
-import img16 from '@/img/16.JPG';
-import img17 from '@/img/17.JPG';
+import img1 from '@/img/1.jpg';
+import img2 from '@/img/2.jpg';
+import img3 from '@/img/3.jpg';
+import img4 from '@/img/4.jpg';
+import img5 from '@/img/5.jpg';
+import img6 from '@/img/6.jpg';
+import img7 from '@/img/7.jpg';
+import img8 from '@/img/8.jpg';
+import img9 from '@/img/9.jpg';
+import img10 from '@/img/10.jpg';
+import img11 from '@/img/11.jpg';
+import img12 from '@/img/12.jpg';
+import img13 from '@/img/13.jpg';
+import img14 from '@/img/14.jpg';
+import img15 from '@/img/15.jpg';
+import img16 from '@/img/16.jpg';
+import img17 from '@/img/17.jpg';
 
 const DEFAULT_IMAGES = [
   { src: img1, alt: 'Abstract art' },
