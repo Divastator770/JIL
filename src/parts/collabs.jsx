@@ -1,11 +1,11 @@
 import React from 'react';
-import LogoLoop from '@/components/LogoLoop';
 
 // 🔹 Rasmlarni import qilamiz
 import gerb from '@/img/gerb.png';
 import adliya from '@/img/adliya.png';
 import fan from '@/img/fan.png';
 import talim from '@/img/talim.png';
+import LogoLoop from '@/components/LogoLoop';
 
 const Collabs = () => {
   const LogoWithTitle = ({ src, alt, title }) => (

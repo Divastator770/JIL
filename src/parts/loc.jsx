@@ -3,7 +3,7 @@ import React from 'react'
 
 const Loc = () => {
   return (
-    <div id='photos' className='min-h-screen'>
+    <div id='' className='min-h-screen'>
       <h1 className='flex items-center justify-center text-[#4A3E31] text-4xl sm:text-5xl md:text-6xl lg:text-[70px] mb-2 font-bold px-4 text-center'>
         Photo album
       </h1>
