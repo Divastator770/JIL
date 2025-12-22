@@ -1,4 +1,3 @@
-import Aurora from '@/components/Aurora'
 import GhostCursor from '@/components/GhostCursor'
 import React from 'react'
 
