@@ -54,7 +54,7 @@ const Collabs = () => {
           title="Fan va innovatsiyalar vazirligi"
         />
       ),
-      title: "Fan va innovatsiyalar vazirligi",
+      title: "Oliy ta'lim va inovatsiyalar vazirligi",
       href: "#",
     },
     {
@@ -62,10 +62,10 @@ const Collabs = () => {
         <LogoWithTitle
           src={talim}
           alt="Maktab ta'lim vazirligi"
-          title="Maktab ta'lim vazirligi"
+          title="Maktabgacha va maktab ta'limi vazirligi"
         />
       ),
-      title: "Maktab ta'lim vazirligi",
+      title: "Maktabgacha va maktab ta'limi vazirligi",
       href: "#",
     },
   ];
