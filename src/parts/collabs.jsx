@@ -50,8 +50,8 @@ const Collabs = () => {
       node: (
         <LogoWithTitle
           src={fan}
-          alt="Oliy ta'lim fan va inovatsiyalat vazirligi"
-          title="Oliy ta'lim fan va inovatsiyalat vazirligi"
+          alt="Oliy ta'lim fan va inovatsiyalar  vazirligi"
+          title="Oliy ta'lim fan va inovatsiyalar  vazirligi"
         />
       ),
       title: "Oliy ta'lim va inovatsiyalar vazirligi",
